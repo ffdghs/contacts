@@ -1,0 +1,13 @@
+.card {
+    width:14.5rem;
+}
+
+#users {
+    overflow:scroll;
+}
+
+img {
+    border-radius: 50% !important;
+    width:80% !important;
+    margin:0 auto !important;
+}
